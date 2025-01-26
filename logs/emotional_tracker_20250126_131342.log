@@ -1,0 +1,25 @@
+2025-01-26 13:13:46,910 - INFO - Detected emotion: neutral
+2025-01-26 13:13:48,932 - INFO - Detected emotion: neutral
+2025-01-26 13:13:51,042 - INFO - Detected emotion: neutral
+2025-01-26 13:13:53,063 - INFO - Detected emotion: neutral
+2025-01-26 13:13:55,171 - INFO - Detected emotion: neutral
+2025-01-26 13:13:57,270 - INFO - Detected emotion: neutral
+2025-01-26 13:13:59,300 - INFO - Detected emotion: neutral
+2025-01-26 13:14:01,307 - INFO - Detected emotion: neutral
+2025-01-26 13:14:03,404 - INFO - Detected emotion: happy
+2025-01-26 13:14:05,573 - INFO - Detected emotion: happy
+2025-01-26 13:14:07,620 - INFO - Detected emotion: happy
+2025-01-26 13:14:09,703 - INFO - Detected emotion: neutral
+2025-01-26 13:14:11,779 - INFO - Detected emotion: happy
+2025-01-26 13:14:13,848 - INFO - Detected emotion: happy
+2025-01-26 13:14:15,934 - INFO - Detected emotion: happy
+2025-01-26 13:14:18,014 - INFO - Detected emotion: happy
+2025-01-26 13:14:20,159 - INFO - Detected emotion: happy
+2025-01-26 13:14:22,248 - INFO - Detected emotion: happy
+2025-01-26 13:14:24,310 - INFO - Detected emotion: happy
+2025-01-26 13:14:26,536 - INFO - Detected emotion: happy
+2025-01-26 13:14:28,756 - INFO - Detected emotion: happy
+2025-01-26 13:14:30,771 - INFO - Detected emotion: happy
+2025-01-26 13:14:32,841 - INFO - Detected emotion: happy
+2025-01-26 13:14:34,871 - INFO - Detected emotion: happy
+2025-01-26 13:14:38,763 - INFO - Shutting down emotional eye tracker
